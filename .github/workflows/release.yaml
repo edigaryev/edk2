@@ -3,6 +3,7 @@ on: [create, push]
 
 jobs:
   build:
+    permissions: write-all
     name: Build
     runs-on: ubuntu-latest
     steps:
