@@ -49,12 +49,3 @@ jobs:
           asset_path: Build/CloudHvX64/DEBUG_GCC5/FV/CLOUDHV.fd
           asset_name: CLOUDHV.fd
           asset_content_type: application/octet-stream
-
-
-
-
-
-
-
-
-
