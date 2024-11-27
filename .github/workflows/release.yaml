@@ -1,5 +1,5 @@
 name: Cloud Hypervisor edk2 release
-on: [create,push]
+on: [create, push]
 
 jobs:
   build:
